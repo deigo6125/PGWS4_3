@@ -3,8 +3,8 @@
 
 # 結果画像
 
-![第3回の結果](result.png)
-- 工夫した点：xxx
+![第3回の結果](https://github.com/deigo6125/PGWS4_3/blob/main/%E7%B5%90%E6%9E%9C%E7%94%BB%E5%83%8F.png)
+- 工夫した点：PBRにテクスチャを反映させられるようにしました。
 
 # 進め方
 
